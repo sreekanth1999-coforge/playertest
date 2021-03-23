@@ -6,7 +6,12 @@ E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\nunit.engine.core.dll
 E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\ConsoleAppPlayers.exe.config
 E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\ConsoleAppPlayers.exe
 E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\ConsoleAppPlayers.pdb
-E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\obj\Debug\ConsoleAppPlayers.csprojAssemblyReference.cache
 E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\obj\Debug\ConsoleAppPlayers.csproj.CoreCompileInputs.cache
 E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\obj\Debug\ConsoleAppPlayers.exe
 E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\obj\Debug\ConsoleAppPlayers.pdb
+E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\ClassLibraryPlayers.dll
+E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\nunit.framework.dll
+E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\ClassLibraryPlayers.pdb
+E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\bin\Debug\nunit.framework.xml
+E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\obj\Debug\ConsoleAppPlayers.csproj.CopyComplete
+E:\Day-45\ConsoleAppPlayers\ConsoleAppPlayers\obj\Debug\ConsoleAppPlayers.csprojAssemblyReference.cache

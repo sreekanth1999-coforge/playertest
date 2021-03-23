@@ -11,8 +11,8 @@ namespace ConsoleAppPlayers
                 foreach (var P in Program.Plist())
                 {
                     Assert.IsNotNull(P.PId);
-                    Assert.IsNotNull(P.PName);
-                    Assert.IsNotNull(P.PTeam);
+                    Assert.IsNotEmpty(P.PName);
+                    Assert.IsNotEmpty(P.PTeam);
                 }
             }
         }

@@ -2,7 +2,6 @@ E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\bin\Debug\ClassLibraryPlayers.dl
 E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\bin\Debug\ClassLibraryPlayers.pdb
 E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\bin\Debug\nunit.framework.dll
 E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\bin\Debug\nunit.framework.xml
-E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\obj\Debug\ClassLibraryPlayers.csprojAssemblyReference.cache
 E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\obj\Debug\ClassLibraryPlayers.csproj.CoreCompileInputs.cache
 E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\obj\Debug\ClassLibraryPlayers.csproj.CopyComplete
 E:\Day-45\ConsoleAppPlayers\ClassLibraryPlayers\obj\Debug\ClassLibraryPlayers.dll
